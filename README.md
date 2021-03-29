@@ -9,3 +9,5 @@
     <li>http://localhost - To get all categories with subcategories</li>
     <li>http://localhost/category/id - To get category with id and breadcrumb</li>
 </ul>
+
+<h2>To populate DB with the results I worked please use categoryTree.sql</h2>
